@@ -2,8 +2,6 @@
 
 カスタムチャートがプレイされた際、そのファイルリファレンス名を Spin Rhythm XD のディレクトリの **`CurrentSrtbName.info`** に保存する MOD。
 
-If you monitor the file with watchdog, etc., you can get information on the song currently being played. Might be useful for something...
-
 ### Example
 
 ```
